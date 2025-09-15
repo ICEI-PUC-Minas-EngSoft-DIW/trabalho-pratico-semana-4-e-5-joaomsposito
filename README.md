@@ -8,15 +8,15 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:João Marcelo Sposito
+- Matricula: 00889304
+- Proposta de projeto escolhida: Video aulas
+- Breve descrição sobre seu projeto: Site de aulas sobre TI
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![<<  COLOQUE A IMAGEM AQUI >>](public/images/image1.png)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![<<  COLOQUE A IMAGEM AQUI >>](public/images/image.png)
